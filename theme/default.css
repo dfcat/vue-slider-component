@@ -1,7 +1,12 @@
 /* component style */
 .vue-slider-disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+  opacity: 1;
+  cursor: auto;
+}
+
+/* component style */
+.vue-slider-dot-disabled {
+  display: none;
 }
 
 /* rail style */
