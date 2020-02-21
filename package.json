@@ -1,7 +1,7 @@
 {
-  "name": "vue-slider-component",
+  "name": "vue-slider-component-dfcat",
   "version": "3.1.1",
-  "description": "A highly customized slider component",
+  "description": "A highly customized slider component modified for dfcat",
   "keywords": [
     "vue",
     "slider",
@@ -21,14 +21,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NightCatSama/vue-slider-component.git"
+    "url": "git+https://github.com/dfcat/vue-slider-component.git"
   },
-  "author": "NightCatSama <642163903@qq.com>",
+  "author": "dr.ohrot",
   "licenses": "MIT",
   "bugs": {
-    "url": "https://github.com/NightCatSama/vue-slider-component/issues"
+    "url": "https://github.com/dfcat/vue-slider-component/issues"
   },
-  "homepage": "https://github.com/NightCatSama/vue-slider-component",
+  "homepage": "https://github.com/dfcat/vue-slider-component",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
